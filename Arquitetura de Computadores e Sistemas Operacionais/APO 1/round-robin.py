@@ -1,5 +1,7 @@
 # round-robin.py
 # Implementação do escalonamento Round Robin
+# Não usamos threading, pra simular um CPU single-core,
+# para ficar mais simples de entender o funcionamento do algoritmo.
 
 import time
 
